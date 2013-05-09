@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Bundle-Localization: com/fourxtreme/visualcontroller/Bundle
+Bundle-Name: %OpenIDE-Module-Name
+Bundle-SymbolicName: com.fourxtreme.visualcontroller
+Bundle-Version: 1.0
+
